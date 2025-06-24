@@ -1,0 +1,10 @@
+#show ip configuration
+Ipconfig
+#view active TCP/UDP connection and port
+Netstat -an
+#perform dns lookup
+Nslookup www.google.com
+#trace a route to website
+Tracert www.google.com
+#ping server to test connectivity
+Ping www.google.com
